@@ -1,0 +1,11 @@
+Alternativas
+
+ Subiendo las confirmaciones
+
+► git push –u origin main
+► git push --set-upstream origin main
+
+ Sin subir las confirmaciones
+
+► git branch –u origin/main
+► git branch --set-upstream-to=origin/main

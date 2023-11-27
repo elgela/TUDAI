@@ -1,0 +1,13 @@
+Flujo de trabajo en Git
+
+-Al revisar un proyecto se pasa desde el repositorio hacia el directorio de trabajo.
+-Al preparar un cambio pasa del directorio de trabajo hacia el área de preparación
+-Al confirmar cambios pasa del área de preparación al repositorio
+
+Ciclo de vida de los archivos
+
+-Cuando se agrega un archivo pasa a quedar preparado
+-Se edita y de estar sin modificación pasa a estar modificado
+-Al prepararlo pasa de modificado a preparado
+-Se elimina estando sin modificación y queda sin seguimiento
+-De estar preparado al confirmarlo queda sin modificación

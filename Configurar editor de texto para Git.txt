@@ -1,0 +1,7 @@
+Bloc de notas // git config --global core.editor "'url de ubicación del editor'"
+
+VS Code // git config --global core.editor "code --wait"
+
+Sublime Text // git config --global core.editor "'url de ubicación del editor' -w"
+
+Notepad++ // git config --global core.editor "'url de ubicación del editor' -multiInst -notabbar -nosession -noPlugin"

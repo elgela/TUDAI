@@ -1,0 +1,4 @@
+Desde dentro de git:
+
+touch para crear archivos
+take para crear carpetas

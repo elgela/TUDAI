@@ -1,0 +1,25 @@
+Tecnología: conjunto de conocimientos y habilidades con el objetivo de conseguir una solución, a resolver un problema o satisfacer una necesidad.
+
+Información: constituída por datos ya supervisados y ordenados para construír un mensaje basado en cierto fenómeno o ente. Permite resolver problemas y tomar decisiones.
+
+Organización: sistema diseñado para alcanzar metas y objetivos. Es un grupo social formado por personas, tareas y administración para cumplir objetivos.
+El conjunto de personas tiene actividades relacionadas entre sí para lograr objetivos. Cada una tiene un rol específico.
+Siempre tiene un propósito, a veces claro y otras veces no tanto.
+La organización tiene objetivos, metas, recursos humanos, recursos materiales e información.
+Los objetivos son los fines hacia donde se encamina su actividad. Las metas son fines específicos expresados en forma cuantitativa. Recursos humanos son las personas que trabajan allí y se relacionan entre sí.
+Recursos materiales son los medios que se utilizan para alcanzar los fines propuestos. Pueden ser recursos físicos: materias primas, maquinarias, herramientas, vehículos, etc; medios naturales: combustibles, energía eléctrica, eólica, hidráulica; recursos financieros: dinero, los préstamos, títulos, bonos, etc.
+Información son los recursos que genera la mente humana, apoyada o no por el uso de la tecnología.
+La organización como sistema es mayor que la sumatoria de los individuos que la componen: SINERGIA
+
+Pueden ser:
+-con fines de lucro (empresas)
+-sin fines de lucro (ONGs)
+-con fines administrativos, representativos, de resolución de servicios (organismos gubernamentales)
+-formales o informales
+-Centralizadas o descentralizadas
+-Locales, nacionales o internacioles/multinacionales/globales
+-Propiedad pública o privada
+-Toma de decisiones horizontales, verticales, red
+
+Posee un conjunto de valores, creencias, normas, lenguajes, conocimientos, códigos de comportamiento y formas de actuar que son conocidos y compartidos por sus miembros.
+Esta es su cultura y le da su identidad propia

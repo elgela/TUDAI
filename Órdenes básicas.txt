@@ -1,0 +1,13 @@
+*git init: Iniciar un repositorio vacío en unas carpeta específica
+
+*git status: Revisamos el estado de los archivos
+
+*git add "nombre_de_archivo": Añadir un archivo específico al área de preparación
+
+*git add . : Añadir todos los archivos del directorio
+
+*git commit –m: mensaje "Confirmar los cambios realizados"
+
+*git log: Muestra el historial de confirmaciones / git log --oneline: Lo muestra en una sola línea
+
+*git diff: Muestra los cambios con respecto a la última versión guardada en el repositorio
