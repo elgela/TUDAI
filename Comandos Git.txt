@@ -33,9 +33,10 @@ git rm –r /
 
 Si queremos que sólo se elimine del repositorio de git pero permanezca en nuestro directorio de trabajo debemos utilizar la opción
 --cached 
-git rm –cached
+git rm --cached
 
-Con el comando rm nos queda listo para confirmar:  
+Con el comando rm nos queda listo para confirmar
+ 
 Si borramos manualmente veremos que aparece una modificación: archivo borrado.
 .gitignore
 
@@ -61,7 +62,7 @@ git branch –vv nos listará los nombres de las ramas locales y la rama remota 
 Decidimos conservar ambos cambios
 Confirmamos la resolución de los conflictos con un nuevo commit
 Ahora estamos adelantados por dos commits
- Finalmente, estando actualizados con el repositorio remoto y habiendo resuelto los respectivos conflictos podemos subir los nuevos cambios al repositorio
+Finalmente, estando actualizados con el repositorio remoto y habiendo resuelto los respectivos conflictos podemos subir los nuevos cambios al repositorio
 
  Ver repositorios remotos configurados
 -git remote

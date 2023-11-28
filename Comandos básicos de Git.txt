@@ -57,7 +57,7 @@
 
 *git merge <nombre del branch> (Agrega los cambios realizados en el branch especificado a la rama del proyecto desde donde se ejecuta el comando)
 
-*git rebase <nombre del branch> (Agrega los cambios realizados en el branch especificado a la rama del proyecto desde donde se ejecuta el comando. Los commits de los    cambios realizados en el branch se escribirán antes del último commit realizado en el proyecto. Este es un proceso lineal de merge)
+*git rebase <nombre del branch> (Agrega los cambios realizados en el branch especificado a la rama del proyecto desde donde se ejecuta el comando. Los commits de los cambios realizados en el branch se escribirán antes del último commit realizado en el proyecto. Este es un proceso lineal de merge)
 
 *git log --graph (Permite visualizar de forma gráfica los commits realizados)
 
