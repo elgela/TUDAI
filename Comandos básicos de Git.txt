@@ -1,4 +1,3 @@
-
 *git --version (Indica la versión instalada de Git)
 
 *git init (Inicia un repositorio en el directorio donde se ejecuta el comando)
@@ -22,9 +21,9 @@
 
 *git config --local user.email "<email del usuario que está realizando los cambios>" (Solo para el proyecto actual)
 
-*git log (Visualiza el historial de commits en varias líneas)
+*git log (Visualiza el historial de commits en varias líneas. Con el hash completo, autor y día)
 
-*git log --oneline (Visualiza el historial de commits en una sola línea)
+*git log --oneline (Visualiza el historial de commits en una sola línea y el hash corto, de 7 números)
 
 *git log -p (Visualiza el historial de commits junto con los detalles de los cambios realizados en el código. Para salir de los detalles escribir :q)
 
